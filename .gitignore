@@ -1,0 +1,22 @@
+# Qt build files
+*.user
+*.pro.user
+*.autosave
+*.qmake.stash
+*.o
+*.obj
+*.dll
+*.exe
+*.app
+Makefile
+build*/
+debug/
+release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.idea/
